@@ -1,0 +1,28 @@
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+* {
+   box-sizing: border-box;
+}
+
+html {
+    display: block;
+}
+:after, :before {
+   box-sizing: border-box;
+}
+:after, :before {
+    box-sizing: border-box;
+}
+.copy_right_footer{
+    position: fixed;
+    color: red;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+}
